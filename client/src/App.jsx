@@ -36,3 +36,4 @@ function App() {
   );
 }
 export default App;
+//Aqui encontramos todas las rutas de react 

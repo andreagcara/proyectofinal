@@ -105,3 +105,4 @@ export const AuthProvider = ({ children }) => {
     </AuthContext.Provider>
   );
 };
+//Aquí encontramos el contexto de la autenticación y todas las funciones que se realizan y las validaciones pertinentes

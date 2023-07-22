@@ -5,3 +5,4 @@ const instance =  axios.create({
     withCredentials: true
 })
 export default instance;
+// Aqui creamos la conexión del front con el back a través de axios 

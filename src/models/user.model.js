@@ -20,3 +20,4 @@ const userSchema = new mongoose.Schema({
     timestamps: true,
 })
 export default mongoose.model('User', userSchema);
+//Este archivo se encarga de guardar los datos del usuario en la base de datos

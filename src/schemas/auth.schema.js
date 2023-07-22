@@ -35,3 +35,4 @@ export const loginSchema = z.object({
       message: "Contraseña incorrecta",
     }),
 });
+//Este archivo se encarga de crear el schema de la tabla users de la base de datos

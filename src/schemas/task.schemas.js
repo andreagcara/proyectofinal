@@ -9,3 +9,4 @@ export const createTasksSchema = z.object({
     }),
     date: z.string().datetime().optional(),
 });
+//Este archivo se encarga de crear el schema de la tabla tasks

@@ -15,3 +15,4 @@ export function createAccessToken(payload){
         });
 });
 }
+//Este archivo se encarga de validar el token

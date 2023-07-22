@@ -71,3 +71,5 @@ export function TaskProvider({ children }) {
     </TaskContext.Provider>
   );
 }
+//Aquí encontramos el contexto de las tareas y todas las funciones que se realizan y las validaciones pertinentes
+

@@ -12,3 +12,4 @@ function ProtectedRoute(){
         
 }
 export default ProtectedRoute
+//Este archivo se encarga de verificar si el usuario esta autenticado o no.

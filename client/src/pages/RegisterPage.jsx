@@ -70,3 +70,4 @@ function RegisterPage() {
   );
 }
 export default RegisterPage;
+//Página de registro

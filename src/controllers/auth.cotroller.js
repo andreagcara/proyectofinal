@@ -90,3 +90,4 @@ export const verifyToken = async (req, res) => {
     });
   });
 };
+//Este archivo se encarga de verificar si el usuario esta registrado en el sistema y hace las verificaciones en el Back 

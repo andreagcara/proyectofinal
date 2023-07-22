@@ -38,3 +38,4 @@ function TaskCard({ task }) {
 }
 
 export default TaskCard;
+//En este componente creamos las tarjetas de las tareas para que sean todas iguales

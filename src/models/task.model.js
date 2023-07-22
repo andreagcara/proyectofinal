@@ -22,3 +22,4 @@ const taskSchema = new mongoose.Schema({
     timestamps: true
 });
 export default mongoose.model("Task", taskSchema);
+//Este archivo se encarga de guardar las tareas en la base de datos

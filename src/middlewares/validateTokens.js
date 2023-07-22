@@ -10,6 +10,7 @@ export const authRequired = (req, res, next)=>{
         req.user = user
         next();
      })
+     //Este archivo es para verificar si el token es valido
 
   
 

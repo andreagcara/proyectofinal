@@ -22,3 +22,4 @@ router.post(
 router.delete("/tasks/:id", authRequired, deleteTasks);
 router.put("/tasks/:id", authRequired, updateTasks);
 export default router;
+//Este archivo se encarga de exportar las rutas de las rutas de la aplicación

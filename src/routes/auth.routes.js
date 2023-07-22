@@ -17,3 +17,4 @@ router.post("/logout", logout);
 router.get("/verify", verifyToken);
 router.get("/profile", authRequired, profile);
 export default router;
+//Este archivo se encarga de las rutas en el Back

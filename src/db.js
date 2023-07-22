@@ -8,3 +8,4 @@ export const connectDB = async() =>{
         console.log(error);
     }
 };
+//Este archivo se encarga de conectar a la base de datos

@@ -44,3 +44,5 @@ function Navbar() {
   );
 }
 export default Navbar;
+
+// En este componente encontramos la NavBar 
